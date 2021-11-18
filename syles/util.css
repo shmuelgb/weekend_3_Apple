@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "pro-text-regular";
+  src: url(/syles/fonts/sf-pro-text_regular.woff2);
+}
+@font-face {
+  font-family: "pro-text-semibold";
+  src: url(/syles/fonts/sf-pro-text_semibold.woff2);
+}
+@font-face {
+  font-family: "pro-display";
+  src: url(/syles/fonts/sf-pro-display_regular.woff2);
+}
