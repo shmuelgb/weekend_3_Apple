@@ -253,8 +253,8 @@ a i {
 }
 
 .page-4-tab {
-  background-color: #f5f5f7;
   height: 580px;
+  width: auto;
   margin: 12px 12px 0px 0px;
   text-align: center;
   position: relative;
@@ -288,13 +288,13 @@ a i {
 .page-4__mac {
   background: url(https://www.apple.com/v/home/ah/images/promos/macbook-pro/tile_macbookpro__cx0ur0qg9biq_medium.jpg)
     no-repeat center center;
-  background-size: 700px 680px;
+  background-size: 700px 580px;
 }
 
 .page-4-airpods {
   background: url(https://www.apple.com/v/home/ah/images/promos/airpods/tile_airpods__fuv6vgn42y2q_medium.jpg)
     no-repeat center center;
-  background-size: auto 580px;
+  background-size: 100% 580px;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
@@ -303,12 +303,12 @@ a i {
 .page-4__homepod {
   background: url(https://www.apple.com/v/home/ah/images/promos/homepod-mini/tile_homepod_mini__b73w4z3ljymu_medium.jpg)
     no-repeat center center;
-  background-size: 980px 950px;
+  background-size: 120% 680px;
 }
 .page-4__watch {
   background: url(https://www.apple.com/v/home/ah/images/promos/watch-series-7/tile_watch__e9n11b6m6yq2_medium.jpg)
     no-repeat center center;
-  background-size: 675px 600px;
+  background-size: 675px 580px;
 }
 
 .page-4__watch span {
@@ -330,7 +330,7 @@ a i {
 .page-4__card {
   background: url(https://www.apple.com/v/home/ah/images/promos/apple-card/tile__cauwwcyyn9hy_medium.jpg)
     no-repeat center center;
-  background-size: auto 580px;
+  background-size: 100% 580px;
 }
 
 .page-4__card h4 {
